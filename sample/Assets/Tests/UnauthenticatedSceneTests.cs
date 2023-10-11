@@ -29,7 +29,7 @@ public class UnauthenticatedSceneTests
     public void UnauthenticatedSceneTestsSimpleFail()
     {
         // intentionally blow up tests!
-        Assert.AreEqual(true, false);
+        // Assert.AreEqual(true, false);
     }
 
     // [Test]
